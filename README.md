@@ -1,2 +1,2 @@
-# https://DanielBenatti.github.io/Materia_IW
+# https://DanielBenatti.github.io/Terraria_guia
 Materia_IW
